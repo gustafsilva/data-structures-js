@@ -1,0 +1,21 @@
+{
+  "name": "data-structures",
+  "version": "1.0.0",
+  "description": "Implementation populaty data structures for JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "data-structures",
+    "data",
+    "structures",
+    "data-structures-js"
+  ],
+  "author": "Gustavo Silva",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^5.6.0",
+    "jest": "^23.6.0"
+  }
+}
